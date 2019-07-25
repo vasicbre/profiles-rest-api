@@ -1,0 +1,3 @@
+Django in Depth: https://www.youtube.com/watch?v=tkwZ1jG3XgA
+Django Series - https://www.youtube.com/watch?v=UmljXZIypDc 
+How to Tango with Django - https://www.tangowithdjango.com/book/chapters/overview.html
